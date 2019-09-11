@@ -11,27 +11,27 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 
 ### Kyber
 
-Link to the Changes Commit: [Here]()
-Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network]()
+* Link to the Changes Required: [Here]()
+* Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network]()
 
 ### Uniswap
 
-Link to the Changes Commit: [Here]()
-Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network]()
+* Link to the Changes Required: [Here]()
+* Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network]()
 
 ### Augur
 
-Link to the Changes Commit: [Here]()
-Link to the Tutorial: [How to Deploy Augur Protocol on Matic Network]()
+* Link to the Changes Required: [Here]()
+* Link to the Tutorial: [How to Deploy Augur Protocol on Matic Network]()
 
 ### dYdX
 
-Link to the Changes Commit: [Here]()
-Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network]()
+* Link to the Changes Required: [Here]()
+* Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network]()
 
 ### bZx
 
-Link to the Changes Commit: [Here]()
-Link to the Tutorial: [How to Deploy bZx Protocol on Matic Network]()
+* Link to the Changes Required: [Here](https://github.com/bZxNetwork/bZx-monorepo/compare/development...Trellis-Lab:development)
+* Link to the Tutorial: [How to Deploy bZx Protocol on Matic Network]()
 
 
