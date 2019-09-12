@@ -24,7 +24,7 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 * Link to the Changes Required: 
 	- Frontend - [Here](https://github.com/Trellis-Lab/KyberSwap/commit/ea7844120f699f88b34b3c52b85c5f54aad2fe0a)
 	- Smart Contracts - [Here](https://github.com/Trellis-Lab/workshop/commit/3504c5d998c943cf7b610f94649b593286d0e5b8)
-* Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network]()
+* Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network](https://medium.com/@manankpatni/kyber-swap-on-matic-network-plasma-chain-b4a67643e6c1)
 
 ### Augur
 
