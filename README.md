@@ -19,7 +19,7 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 ### Uniswap
 
 * Link to the Changes Required: [Here](https://github.com/Trellis-Lab/uniswap-frontend/commit/bbc5d7f506facc16b5b85eaeada2f811688fbb5e)
-* Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network]()
+* Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network](https://medium.com/trellis-lab/deploying-uniswap-on-matic-network-8ec1493a5c82)
 
 ### Augur
 
