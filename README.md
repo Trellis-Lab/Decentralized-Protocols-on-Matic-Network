@@ -9,6 +9,16 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 4. **dYdX** (source code, white paper) - Margin-trading and options protocols
 5. **bZx** (source code, docs) - Decentralized margin-lending protocol
 
+### Uniswap
+
+* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/uniswap-frontend/commit/bbc5d7f506facc16b5b85eaeada2f811688fbb5e)
+* Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network](https://medium.com/trellis-lab/deploying-uniswap-on-matic-network-8ec1493a5c82)
+
+### dYdX
+
+* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/solo/commit/cc58ec5cd0ec5727a13dea139c5ac6e031d40f7b)
+* Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network](https://medium.com/@manankpatni/deploying-dydx-to-matic-network-52a253662b3f)
+
 ### Kyber
 
 * Link to the Changes Required: 
@@ -16,20 +26,10 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 	- Smart Contracts - [Here](https://github.com/Trellis-Lab/workshop/commit/3504c5d998c943cf7b610f94649b593286d0e5b8)
 * Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network]()
 
-### Uniswap
-
-* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/uniswap-frontend/commit/bbc5d7f506facc16b5b85eaeada2f811688fbb5e)
-* Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network](https://medium.com/trellis-lab/deploying-uniswap-on-matic-network-8ec1493a5c82)
-
 ### Augur
 
 * Link to the Changes Required: [Here]()
 * Link to the Tutorial: [How to Deploy Augur Protocol on Matic Network]()
-
-### dYdX
-
-* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/solo/commit/cc58ec5cd0ec5727a13dea139c5ac6e031d40f7b)
-* Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network](https://medium.com/@manankpatni/deploying-dydx-to-matic-network-52a253662b3f)
 
 ### bZx
 
