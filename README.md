@@ -29,7 +29,7 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 ### dYdX
 
 * Link to the Changes Required: [Here](https://github.com/Trellis-Lab/solo/commit/cc58ec5cd0ec5727a13dea139c5ac6e031d40f7b)
-* Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network]()
+* Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network](https://medium.com/@manankpatni/deploying-dydx-to-matic-network-52a253662b3f)
 
 ### bZx
 
