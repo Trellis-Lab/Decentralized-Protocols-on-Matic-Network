@@ -11,12 +11,14 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 
 ### Kyber
 
-* Link to the Changes Required: [Here]()
+* Link to the Changes Required: 
+	- Frontend - [Here](https://github.com/Trellis-Lab/KyberSwap/commit/ea7844120f699f88b34b3c52b85c5f54aad2fe0a)
+	- Smart Contracts - [Here](https://github.com/Trellis-Lab/workshop/commit/3504c5d998c943cf7b610f94649b593286d0e5b8)
 * Link to the Tutorial: [How to Deploy Kyber Protocol on Matic Network]()
 
 ### Uniswap
 
-* Link to the Changes Required: [Here]()
+* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/uniswap-frontend/commit/bbc5d7f506facc16b5b85eaeada2f811688fbb5e)
 * Link to the Tutorial: [How to Deploy Uniswap Protocol on Matic Network]()
 
 ### Augur
@@ -26,7 +28,7 @@ To enable a set of decentralized protocols on the Matic Network to make it easy 
 
 ### dYdX
 
-* Link to the Changes Required: [Here]()
+* Link to the Changes Required: [Here](https://github.com/Trellis-Lab/solo/commit/cc58ec5cd0ec5727a13dea139c5ac6e031d40f7b)
 * Link to the Tutorial: [How to Deploy dYdX Protocol on Matic Network]()
 
 ### bZx
